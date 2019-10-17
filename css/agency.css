@@ -10,19 +10,19 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 a {
-  color: #fed136;
+  color: #196cfa ;
 }
 
 a:hover {
-  color: #fec503;
+  color: #0389fe;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #36cffe !important;
 }
 
 h1,
@@ -93,13 +93,13 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #0a4a8e;
+  border-color: #00244a;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #0a4a8e !important;
+  border-color: #00244a !important;
   color: white;
 }
 
